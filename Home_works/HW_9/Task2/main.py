@@ -89,7 +89,7 @@ def getKeyboard(callBackData):
         for i in range(0, 3):
             for j in range(0, 3):
                 keyboard[i].append(InlineKeyboardButton(callBackData[j + i * 3], callback_data=str(j + i * 3) + callBackData))
-
+    
     return keyboard
 
 
@@ -99,7 +99,6 @@ def newGame(update, _):
         data += st.SYMBOL_UNDEF
 
     update.message.reply_text(st.ANSW_YOUR_TURN, reply_markup=InlineKeyboardMarkup(getKeyboard(data)))
-
 
 def button(update, _):
     query = update.callback_query

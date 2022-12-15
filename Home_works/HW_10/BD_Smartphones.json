@@ -1,0 +1,6 @@
+{
+    "Samsung": [{"diagonal": "6,5\"", "model": "Galaxy A03 Core", "memory_size": "32Gb", "camera": "8Mp", "url": "https://www.dns-shop.ru/product/43fbb181f03d27da/65-smartfon-samsung-galaxy-a03-core-32-gb-zelenyj/"},
+                {"diagonal": "6,5\"", "model": "Galaxy A13", "memory_size": "128Gb", "camera": "50 + 5 + 2 + 2Mp", "url": "https://www.dns-shop.ru/product/282795ee7cc0e673/66-smartfon-samsung-galaxy-a13-128-gb-goluboj/"}],
+    "Apple": [{"diagonal": "6,5\"", "model": "Iphone Xs Max", "memory_size":"64Gb", "camera": "12 + 12Mp", "url": "https://www.dns-shop.ru/product/a0c7c3597f08ed20/65-smartfon-apple-iphone-xs-max-kak-novyj-64-gb-serebristyj/"},
+              {"diagonal": "6,1\"", "model": "Iphone 11", "memory_size":"128Gb", "camera": "12 + 12Mp", "url": "https://www.dns-shop.ru/product/d0329824f384ed20/61-smartfon-apple-iphone-11-128-gb-belyj/"}]
+}
